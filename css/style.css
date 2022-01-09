@@ -1,8 +1,66 @@
-header {
-    display: flex;
-    align-items: center;
+
+/*body*/
+
+body {
+    background-color: lavender;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-img {
-    width: 200px;
+/*header*/
+header, main, footer {
+    margin: 1.25rem;
+
 }
+
+header {
+    display: flex;
+    background-color: steelblue;
+    margin-right: 1rem;
+    border-radius: 40px;
+
+}
+
+/*img*/
+
+img {
+    width: 250px;
+    height: 260px;
+    margin-left: 2rem;
+}
+
+/*h1*/
+
+h1 {
+   margin: 6rem;
+   font-size: 50px;
+   color: white;
+    
+}
+
+/*a*/
+
+a {
+    margin: .8rem;
+   
+}
+
+/*footer*/
+
+footer {
+    background-color: steelblue;
+    height: 4rem;
+    text-align: center;
+   position: relative;
+   border-radius: 40px;
+    
+}
+
+/*the horizontal line*/
+hr {
+    color: blue;
+}
+
+
+/*note that the li and h2 does not have styling.*/
+
