@@ -1,2 +1,2 @@
-const lastupdate = document.querySelector('lastupdate');
-lastupdate.innerHTML = 'Last Update: ${document.lastupdate}'; 
+const lastupdate = document.querySelector('p#lastupdate');
+textContent.innerHTML = 'Last Update: ${document.lastModified}'; 
