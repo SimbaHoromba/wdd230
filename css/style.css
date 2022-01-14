@@ -26,7 +26,7 @@ header {
 img {
     width: 250px;
     height: 260px;
-    margin-left: 2rem;
+    margin: 30px;
 }
 
 /*h1*/
@@ -48,17 +48,19 @@ a {
 /*footer*/
 
 footer {
+    display: flex;
+    margin: 0 auto;
     background-color: steelblue;
     height: 4rem;
-    text-align: center;
-   position: relative;
+    align-items: center;
    border-radius: 40px;
+   padding: 0 30px 30px;
     
 }
 
 /*the horizontal line*/
 hr {
-    color: blue;
+    color: red;
 }
 
 
