@@ -1,2 +1,2 @@
-const lastnod = document.querySelector('#lastnod');
+const lastnod = document.querySelector('lastnod');
 lastnod.textContent = document.lastModified;
