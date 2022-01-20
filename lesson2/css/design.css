@@ -86,6 +86,12 @@ h1, h2 {
     padding: 1em;
 }
 
+.para1 {
+    font-family: 'Arvo', serif;
+    color: #10002B;
+    font-weight: bolder;
+}
+
 p {
     padding: 1em;
     line-height: 1.5em;
