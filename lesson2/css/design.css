@@ -123,3 +123,15 @@ nav, a {
 nav, a:hover {
     color: #FCA311;
 }
+
+footer {
+    background-color: #000814;
+    text-align: center;
+    color: whitesmoke;   
+}
+
+
+.last-update {
+    font-weight: bolder;
+}
+
