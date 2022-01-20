@@ -44,7 +44,12 @@ h1 {
 
 a {
     margin: .8rem;
-   
+    color: #1D3557;
+    font-size: large;
+}
+
+ a:hover {
+    color: #FCA311;
 }
 
 /*footer*/
