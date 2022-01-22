@@ -1,4 +1,8 @@
 
+img {
+    align-items: center;
+    display: flex;
+}
 
  a:hover {
     color: #FCA311;
