@@ -1,6 +1,17 @@
+header {
+    display: flex;
+}
 
-img {
+.logo {
+    display: inline;
+}
+
+.container{
     align-items: center;
+    text-align: center;
+}
+img {
+    
     display: flex;
 }
 
