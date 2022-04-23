@@ -41,3 +41,7 @@ main h2 {
     font-weight: bold;
 }
 
+main li {
+    margin: 2rem;
+}
+
