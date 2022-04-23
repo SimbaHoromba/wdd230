@@ -53,6 +53,8 @@ footer {
     color: white;
     padding: 2rem;
     margin-bottom: 2rem;
+    border: 3px solid #ffb703;
+    border-radius: 20px;
 }
 
 
