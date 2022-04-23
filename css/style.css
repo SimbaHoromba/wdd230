@@ -21,5 +21,6 @@ header {
     display: grid;
     grid-template-columns: 200px 1fr;
     align-items: center;
+    border-radius: 5px;
 }
 
