@@ -30,3 +30,8 @@ header img {
     height: auto;
 }
 
+header h1 {
+    color: white;
+    margin: 2rem auto;
+}
+
