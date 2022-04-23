@@ -15,7 +15,7 @@ header, main, footer {
 
 header {
     margin: 1rem;
-    border: 1px solid #ffb703 ;
+    border: 3px solid #ffb703 ;
     padding: .5rem;
     background-color: #001219;
 }
