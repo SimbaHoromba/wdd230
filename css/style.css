@@ -19,5 +19,5 @@ header {
     padding: .5rem;
     background-color: #001219;
     display: grid;
-    grid-template-columns: 200px;
+    grid-template-columns: 200px 1fr;
 }
