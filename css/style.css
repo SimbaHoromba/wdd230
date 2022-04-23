@@ -24,3 +24,8 @@ header {
     border-radius: 20px;
 }
 
+header img {
+    width: 100;
+    height: auto;
+}
+
