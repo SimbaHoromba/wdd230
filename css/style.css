@@ -12,3 +12,10 @@ header, main, footer {
     max-width: 700px;
     margin: 0 auto;
 }
+
+header {
+    margin: 1rem;
+    border: 1px solid #ffb703 ;
+    padding: .5rem;
+    background-color: #001219;
+}
