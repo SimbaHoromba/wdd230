@@ -4,7 +4,11 @@
     }
 
     h2 {
-        font-size: 0.5rem;
+        font-size: 1.5rem;
+    }
+
+    header, footer {
+        border-radius: 20px;
     }
 }
 

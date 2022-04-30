@@ -38,7 +38,7 @@ header h1 {
     margin: 2rem auto;
 }
 
-/*h1 {
+h1 {
     font-size: 1.5rem;
     margin: 0.15rem;
 }
@@ -46,7 +46,7 @@ header h1 {
 h2 {
     font-size: 0.5rem;
 
-}*/
+}
 
 main h2 {
     
@@ -67,7 +67,7 @@ footer {
     padding: 2rem;
     margin-bottom: 2rem;
     border: 3px solid #ffb703;
-    border-radius: 20px;
+    /*border-radius: 20px;*/
 }
 
 
