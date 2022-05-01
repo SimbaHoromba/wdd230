@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Libre+bodini';
+}
+
+header, main, footer {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+header {
+    margin: 1rem auto;
+    border: 3px solid #ffb703 ;
+    padding: .5rem;
+    background-color: #001219;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-family: 'Source Serif 4', serif;
+}
+
+header h2 {
+    padding: 0 0 2rem;
+    font-size: 1.8rem;
+    font-family: 'Source Serif 4', serif;
+}
+
+/**main*/
+
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    row-gap: 1rem;
+    column-gap: 1rem;
+    
+    
+}
+
