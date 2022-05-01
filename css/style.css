@@ -70,40 +70,9 @@ footer {
 
 /*design principles css*/
 
-.principles-1 {
-    max-width: 767px;
-	margin: 0 auto;
-	display: grid;
-	grid-template-columns: 1fr;
-	font-size: 0.8rem;
-}
-
-.principles-1 section h3 {
-    color: #b80c09; 
-}
-
-.principles-1 section {
-    margin: 0.5rem;
-	border: 1px solid #bbb;
-	padding: 0 1rem;
-	background-color: #eaf4f4;
-}
 
 
-.principles-1 section:nth-child(2) {
-	display: none;
-	margin: 0.5rem;
-}
-
- .principles-1 h3 {
-    background-color: #ffb703;
-}
-
-.image-home {
-    box-shadow: 0 0 30px #333;
-}
-
-@media only screen and (min-width: 37.5em) {
+/*@media only screen and (min-width: 37.5em) {
 	.principles-1 {
 		grid-template-columns: 1fr 1fr;
 	}
@@ -127,7 +96,7 @@ footer {
 }
 
 /* Desktop Views ****************************/
-@media only screen and (min-width: 60em) {
+/*@media only screen and (min-width: 60em) {
 	main {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
@@ -135,7 +104,7 @@ footer {
 	.principles-1 section:nth-child(3) {
 		grid-column: span 1;
 	}
-}
+}*/
 
 
 
