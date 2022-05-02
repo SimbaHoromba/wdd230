@@ -50,7 +50,7 @@ button a {
 
 
 
- a:hover {
+button a:hover {
     
     color: white;
 }
@@ -100,8 +100,18 @@ section h3 {
 
 
 section img {
+
     padding:30px;
     justify-content: center;
+}
+
+.column a {
+justify-content: center;
+text-align: center;
+margin-left: 10px;
+font-weight: bolder;
+text-transform: uppercase;
+color: #000000;  
 }
 
 footer {
@@ -112,6 +122,14 @@ footer {
     margin-bottom: 2rem;
     border: 3px solid #ffb703;
     /*border-radius: 20px;*/
+}
+
+section p {
+    text-align: center;
+    padding: 1.5rem;
+    line-height: 2;
+    font-family: 'Libre Bodoni', serif;
+    font-weight: bold;
 }
 
 @media only screen and (min-width: 37.5em) {
