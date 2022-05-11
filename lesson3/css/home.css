@@ -4,6 +4,13 @@
 	box-sizing: border-box;
 }
 
+:root {
+	--main-color: #14213d;
+	--sec-color: white;
+	--font-color: #000000;
+	--alt-color: #fca311; 
+}
+
 body {
 	font-size: 16px;
 	font-family: 'Libre Bodoni', serif;
