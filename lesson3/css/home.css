@@ -123,6 +123,25 @@ footer p {
 	}
 }
 
+.title {
+	margin: 1em;
+}
+
+.para {
+	line-height: 2;
+	font-size: 18px;
+	
+}
+
+strong {
+	line-height: 2;
+	font-size: 18px;
+}
+
+
+
+
+
 @media only screen and (min-width: 60em) {
 	h1 {
 		font-size: 2rem;
