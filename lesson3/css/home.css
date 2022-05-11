@@ -63,6 +63,11 @@ nav ul li a {
    
 }
 
+a:hover {
+	background-color: var(--alt-color);
+	color: var(--sec-color);
+}
+
 main {
 	display: grid;
 	grid-template-columns: 1fr;
