@@ -74,6 +74,8 @@ main {
     display: grid;
 	grid-template-columns: 1fr;
 	font-size: 0.8rem;
+    margin: auto;
+    
     
     
 }
@@ -135,9 +137,5 @@ section p {
     font-weight: bold;
 }
 
-@media only screen and (max-width: 32.5em) {
-    section {
-        display: inline-block;
-    }
-}
+
 
