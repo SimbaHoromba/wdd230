@@ -30,18 +30,18 @@ header img {
 }
 
 h1 {
-    font-size: 1.1em;
+    font-size: 1em;
     margin: 1rem;
     color: white;
 }
 
 nav ul {
+    display: flex;
     list-style: none;
     overflow: hidden;
 }
 
 nav ul li a {
-    display: block;
     color: white;
     text-align: center;
     text-decoration: none;
