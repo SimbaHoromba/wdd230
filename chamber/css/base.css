@@ -21,7 +21,7 @@ header,
 main,
 footer {
 	max-width: 767px;
-	margin: 0 auto;
+	margin:  auto;
 }
 
 header img {
@@ -36,7 +36,7 @@ h1 {
 }
 
 nav ul {
-    display: flex;
+    display: block;
     list-style: none;
     overflow: hidden;
 }
