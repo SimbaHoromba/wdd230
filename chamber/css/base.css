@@ -45,6 +45,8 @@ header {
     text-align: center;
     background-color: black;
     color: white;
+    width: 100%;
+    justify-content: center;
 }
 
 nav {
@@ -69,4 +71,10 @@ main,
 footer {
 	max-width: 767px;
 	margin: 0 auto;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
