@@ -9,3 +9,49 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/****header****/
+
+header {
+    display: flex;
+    background-color: #14213d;
+    color: whitesmoke;
+    display: grid;
+    grid-template-rows: 1fr 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+header .my-logo {
+    width: 150px;
+}
+
+.date {
+    grid-row: 4/4;
+    grid-column: 2/4;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.navigation {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+   
+    grid-row: 1/2;
+    grid-column: 3/4;
+    color: whitesmoke;
+    
+
+}
+nav ul li a {
+	display: block;
+	color: #fff;
+	text-align: center;
+	padding: 0.75rem;
+	text-decoration: none;
+	font-size: 0.95rem;
+}
